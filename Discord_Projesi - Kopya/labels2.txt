@@ -1,0 +1,6 @@
+0 OK
+1 iyi
+2 Kotu
+3 1
+4 Rock
+5 5 / El
